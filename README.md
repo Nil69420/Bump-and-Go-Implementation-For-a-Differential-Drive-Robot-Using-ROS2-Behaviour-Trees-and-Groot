@@ -13,7 +13,7 @@ Made to be used with this [Project](https://github.com/Nil69420/Differential-Dri
 * Behavior Tree Action Nodes made using Groot
 
 <p align="left">
-  <img width="460" height="300" src="images/pienpien.png">
+  <img width="460" height="300" src="images/pienpien.PNG">
 </p>
 
 * Tested and executed using Tiago robot and the nodes are monitored using Groot
